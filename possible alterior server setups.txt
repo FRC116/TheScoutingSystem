@@ -1,0 +1,4 @@
+jasn-ld
+rest api's
+angularJS
+PHPmyadmin
