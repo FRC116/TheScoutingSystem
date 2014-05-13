@@ -1,0 +1,21 @@
+body {
+    background-image: url(http://i623.photobucket.com/albums/tt319/Keatongrovey/red-gradient.jpg) ;
+    font-family: lobster-two ;
+    font-size: 16px ;
+    
+}
+p {
+    font-family: bitter ;
+    color: #B25A5A ;
+    font-size: 8;
+}
+div {
+    border-radius: 5px ;
+    border: 2px solid #B25A5A ;
+    background-color: #A60000 ;
+    height: 100px ;
+    width: 200px ;
+    margin: auto ;
+    text-align: center ;
+}
+    
