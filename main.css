@@ -8,6 +8,7 @@ p {
     font-family: bitter ;
     color: #B25A5A ;
     font-size: 8;
+    text-align: center;
 }
 div {
     border-radius: 5px ;
@@ -21,6 +22,8 @@ div {
     font-size: 16px ;
 }
 a {
-    font-family: lobster-two, ;
-    font-size: 16px ;
+    font-family: lobster-two;
+    font-size: 3em ;
+    text-decoration: none;
+    color: black;
 }
