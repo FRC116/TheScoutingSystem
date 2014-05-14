@@ -1,0 +1,41 @@
+body{
+    background-color: #940707
+}
+
+#mainButton{
+    width: 8em;
+    height: 2em;
+    background-color: red;
+    margin: auto;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    text-align: center;
+    font-size: 4em;
+    align-self: center;
+    border-radius: .5em;
+    border: .1em solid #000000;
+    
+}
+
+#mainButton a{
+    color: #000000;
+}
+
+#loginButton{
+    width: 4em;
+    text-align: center;
+    height: 2em;
+}
+
+#loginButton a{
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    color: #BFBFBF;
+    text-align: center;
+}
