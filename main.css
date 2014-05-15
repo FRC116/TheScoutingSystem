@@ -1,31 +1,40 @@
 body {
     background-image: url(http://i623.photobucket.com/albums/tt319/Keatongrovey/red-gradient.jpg) ;
     font-family: lobster-two ;
-    font-size: 16px ;
+    font-size: 1em ;
     
 }
+
 p {
     font-family: bitter ;
     color: #B25A5A ;
     font-size: 8;
     text-align: center;
 }
-div {
-    border-radius: 5px ;
-    border: 2px solid #B25A5A ;
-    background-color: #A60000 ;
-    height: 100px ;
-    width: 200px ;
-    margin: auto ;
-    text-align: center ;
-    font-family: lobster-two, ;
-    font-size: 16px ;
-}
-a {
 
-    font-family: lobster-two, ;
-    font-size: 16px ;
+#mainButton input {
+    display: block;
+    border-radius: .5em ;
+    border: .1em solid #B25A5A ;
+    background-color: #A60000 ;
+    width: 5em;
+    height: 1.5em;
+    margin: auto ;
+    margin-top: .2em;
+    text-align: center ;
+    font-size: 8em;
 }
+
+#loginButton input {
+    display: block;
+    border: .2em solid #424242;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 1.5em;
+    font-weight: bold;
+    width: 5em;
+}
+
 img {
     align-content: center;
 }
