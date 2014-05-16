@@ -6,7 +6,7 @@ body {
 }
 
 p {
-    font-family: bitter ;
+    font-family: bitter;
     color: #B25A5A ;
     font-size: 8;
     text-align: center;
@@ -23,6 +23,7 @@ p {
     margin-top: .2em;
     text-align: center ;
     font-size: 8em;
+    font-family: lobster-two;
 }
 
 #loginButton input {
@@ -33,6 +34,7 @@ p {
     font-size: 1.5em;
     font-weight: bold;
     width: 5em;
+    font-family: bitter;
 }
 
 img {
