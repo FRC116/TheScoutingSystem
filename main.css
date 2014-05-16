@@ -31,10 +31,24 @@ p {
     border: .2em solid #424242;
     background-color: #000000;
     color: #ffffff;
-    font-size: 12px;
-    width: 5em;
+    font-size: 16px;
+    width: 6em;
+    height: 3em;
     font-family: bitter;
 }
+
+#aboutButton input {
+    display: block;
+    border: .2em solid #424242;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: bitter;
+    font-size: 16px;
+    width: 6em;
+    height: 3em;
+    float: right;
+    float: inherit;
+}   
 
 img {
     align-content: center;
