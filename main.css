@@ -31,8 +31,7 @@ p {
     border: .2em solid #424242;
     background-color: #000000;
     color: #ffffff;
-    font-size: 1.5em;
-    font-weight: bold;
+    font-size: 12px;
     width: 5em;
     font-family: bitter;
 }
