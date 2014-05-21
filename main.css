@@ -29,8 +29,8 @@ p {
 #loginButton input {
     display: block;
     border: .2em solid #424242;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #B20047;
+    color: #800000;
     font-size: 16px;
     width: 6em;
     height: 3em;
@@ -40,8 +40,8 @@ p {
 #aboutButton input {
     display: block;
     border: .2em solid #424242;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #B20047;
+    color: #800000;
     font-family: bitter;
     font-size: 16px;
     width: 6em;
