@@ -55,3 +55,14 @@ p {
 img {
     align-content: center;
 }
+
+button {
+    display: block;
+    background-color: #B20047;
+    color: #800000;
+    font-family: bitter;
+    font-size: 16px;
+    width: 6em;
+    height: 3em;
+    float: right;
+    float: inherit;
