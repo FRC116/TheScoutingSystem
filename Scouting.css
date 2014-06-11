@@ -1,0 +1,31 @@
+body {
+    background-image: url(http://i.imgur.com/gg3sCSU.jpg) ;
+    background-size:cover ;
+    background-repeat: no-repeat ;
+    font-family: lobster-two ;
+    font-size: 1em ;
+    
+}
+
+p {
+    font-family: bitter;
+    color: #B25A5A ;
+    font-size: 8;
+    text-align: center;
+}
+
+
+img {
+    align-content: center;
+}
+
+#homeButton input {
+    display: block;
+    border: .2em solid #424242;
+    background-color: #B20047;
+    color: #800000;
+    font-size: 16px;
+    width: 6em;
+    height: 3em;
+    font-family: bitter;
+}

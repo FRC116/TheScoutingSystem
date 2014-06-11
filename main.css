@@ -1,5 +1,7 @@
 body {
     background-image: url(http://i.imgur.com/gg3sCSU.jpg) ;
+    background-size:cover ;
+    background-repeat: no-repeat ;
     font-family: lobster-two ;
     font-size: 1em ;
     
