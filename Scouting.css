@@ -2,18 +2,38 @@ body {
     background-image: url(http://i.imgur.com/gg3sCSU.jpg) ;
     background-size:cover ;
     background-repeat: no-repeat ;
-    font-family: lobster-two ;
-    font-size: 1em ;
+    font-family: monospace ;
+    font-size: 2em ;
     
 }
 
 p {
     font-family: bitter;
     color: #B25A5A ;
-    font-size: 8;
+    font-size: 1em;
     text-align: center;
 }
 
+h1 {
+    margin: 0;
+    font-family: arial;
+    font-size: 1.3em;
+}
+
+h2 {
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+h4 {
+    font-family: bitter ;
+    font-size: 2em ;
+    line-height: 100%;
+    margin: 0;
+}
 
 img {
     align-content: center;
